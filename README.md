@@ -25,7 +25,7 @@
     <a href="https://github.com/natenaranjo/Notebook"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://watch.screencastify.com/v/c9nX51yRLJjuCg3rLRpp">View Demo</a>
+    <a href="https://intense-sierra-67829.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/natenaranjo/Notebook/issues">Report Bug</a>
     ·
