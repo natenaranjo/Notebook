@@ -13,8 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/natenaranjo/Notebook">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/natenaranjo">
+    <img src="./public/assets/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Notebook</h2>
@@ -81,11 +81,15 @@ You can view a live demo of the app by click the "View Demo" button under the ti
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-A simple readme markdown file creator without having to type all the extra words in the markdown file.
+To start lick the "Get Started" button on the center of the screen.  To the notes page you will be taken notes section to begin writing notes. Once the note you wish to save is complete click the save icon at the top right.
 
 [![Project Screenshot][project-screenshot-1]](https://github.com/natenaranjo/Notebook)
 
+You can click on a note on the left to view the note.
+
 [![Project Screenshot][project-screenshot-2]](https://github.com/natenaranjo/Notebook)
+
+You can also delete a note on the left by clicking the red trash can which will remove the note. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,29 +97,18 @@ A simple readme markdown file creator without having to type all the extra words
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Open the Notebook
-    - [ ] Presented with a landing page
-- [ ] Click on the link to the note pages
-    - [ ] I am presented with a page with existing notes listed in the left-hand column
-    - [ ] Plus empty fields to enter a new note title
-    - [ ] Enter the notes text in the right column.
-- [ ] After entering the New Note title and text
-    - [ ] A save icon appears at the top
-- [ ] The new note that was entered and saved appears in the left column amongst the other notes.
-- [ ] If any note clicked on the left hand column will appear in the right column.
-- [ ] When clicked on the Write Icon in the navigation at the top of the page.
-    - [ ] then presented with empty fields to enter a new note title and note text.  
-
-See the [open issues](https://github.com/natenaranjo/Notebook/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-You can contribute by visiting the repo by the links at the top of the page.
+- [x] Open the Notebook
+    - [x] Presented with a landing page
+- [x] Click on the link to the note pages
+    - [x] I am presented with a page with existing notes listed in the left-hand column
+    - [x] Plus empty fields to enter a new note title
+    - [x] Enter the notes text in the right column.
+- [x] After entering the New Note title and text
+    - [x] A save icon appears at the top
+- [x] The new note that was entered and saved appears in the left column amongst the other notes.
+- [x] If any note clicked on the left hand column will appear in the right column.
+- [x] When clicked on the Write Icon in the navigation at the top of the page.
+    - [x] then presented with empty fields to enter a new note title and note text.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
