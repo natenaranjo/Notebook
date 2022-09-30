@@ -83,6 +83,10 @@ You can view a live demo of the app by click the "View Demo" button under the ti
 
 A simple readme markdown file creator without having to type all the extra words in the markdown file.
 
+[![Project Screenshot][project-screenshot-1]](https://github.com/natenaranjo/Notebook)
+
+[![Project Screenshot][project-screenshot-2]](https://github.com/natenaranjo/Notebook)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -168,4 +172,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/natenaranjo/Notebook/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/natenaranjo
-[project-screenshot]: /Develop/public/assets/img/screenshot.png
+[project-screenshot]: /public/assets/img/screenshot.png
+[project-screenshot-1]: /public/assets/img/screenshot-1.png
+[project-screenshot-2]: /public/assets/img/screenshot-2.png
